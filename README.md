@@ -1,5 +1,4 @@
 # EDA-Dashboard-Netflix
-![EDA-Dashboard-Netflix](Preview.gif)
 This project is a Exploratory Data Analysis (EDA) and data visualization dashboard developed using Tableau, leveraging a dataset sourced from Kaggle and from API in CSV format and processed in Google Colaboratory. The dashboard provides an intuitive interface for exploring Netflix content, including movies and TV shows. It showcases key insights such as title counts, ratings, release years, and movie durations, enabling users to analyze trends over time. With interactive charts and filters, users can delve into various aspects of Netflix's library, including content types, movie ratings, and the top 10 longest movies. Designed to provide a comprehensive overview of Netflix’s catalog, this dashboard empowers users to gain valuable insights quickly and efficiently. 
 
 ---
@@ -38,6 +37,6 @@ The data for this dashboard is sourced from two primary locations:
 ---
 
 ## Sources
-
-- Link [Dashboard](https://public.tableau.com/app/profile/kevin.sutrisna/viz/shared/2MRHKNY5X)
+- Link [Dashboard Revamp](https://public.tableau.com/views/NetflixDashboardRevamp/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- Link [Dashboard Old](https://public.tableau.com/views/Netflix_17285970566450/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - Link [Colab](https://colab.research.google.com/drive/160YaUiVlYKUkClUTS8wogXRmat3yJ7Gm?usp=sharing)
